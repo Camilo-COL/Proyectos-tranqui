@@ -14,6 +14,7 @@ suma=nnatural*(nnatural+1)//2
 
 resultado_c=int(input("Ingrese el calculo que ud hizo: "))
 print("La suma de los números naturales desde 1 hasta", nnatural, "es:", suma)
+
 if resultado_c==suma:
     print("El resultado es Correcto ud gano 10 puntos")
-else:    print("El resultado correcto es incorrecto")
+else:    print("El resultado correcto es incorrecto 0 puntos")
